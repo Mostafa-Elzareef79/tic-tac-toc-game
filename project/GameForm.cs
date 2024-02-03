@@ -241,7 +241,7 @@ namespace project
             }
             else if ( button1.Text != "" && button2.Text != "" && button3.Text != "" && button4.Text != "" && button5.Text != "" && button6.Text != "" && button7.Text != "" && button8.Text != "" && button9.Text != "")
             {
-                MessageBox.Show("drawen game");
+                MessageBox.Show("drawen game!");
             }
 
         }
